@@ -4,7 +4,7 @@
   ],
   "packageRules": [
     {
-      "packageNames": ["service-c"],
+      "packageNames": ["@pedrovasher/servicec"],
       "updateTypes": ["minor", "patch"],
       "automerge": true
     }

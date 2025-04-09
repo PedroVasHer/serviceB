@@ -1,4 +1,4 @@
-import ServiceC from "serviceC";
+import ServiceC from "@pedrovasher/servicec";
 import express from 'express';
 
 const app = express();
