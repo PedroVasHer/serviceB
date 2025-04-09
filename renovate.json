@@ -7,7 +7,7 @@
       "packageNames": ["@PedroVasHer/servicec"],
       "updateTypes": ["minor", "patch"],
       "automerge": true,
-      "branchPrefix": "feature/"
+      "branchPrefix": "main"
     }
   ],
   "dependencyDashboard": true,
