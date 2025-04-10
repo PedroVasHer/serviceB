@@ -14,8 +14,16 @@
       "branchPrefix": "main"
     }
   ],
-  "npmrc": "//npm.pkg.github.com/:_authToken=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",
+  "hostRules": [
+    {
+      "matchHost": "https://npm.pkg.github.com/",
+      "hostType": "npm",
+      "encrypted": {
+        "token": "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"
+      }
+    }
   ],
+  "npmrc": "@pedrovasher:registry=https://npm.pkg.github.com/",
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Dependency Dashboard"
 }
