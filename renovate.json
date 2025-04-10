@@ -14,7 +14,7 @@
       "branchPrefix": "main"
     }
   ],
-  "npmrc": "@pedrovasher:registry=https://npm.pkg.github.com/"
+  "npmrc": "@pedrovasher:registry=https://npm.pkg.github.com/",
   "hostRules": [
     {
       "hostType": "npm",
