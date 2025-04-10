@@ -1,6 +1,6 @@
 {
   "extends": [
-    "config:recommended"
+    "local>PedroVasHer/renovate-config"
   ],
   "packageRules": [
     {
