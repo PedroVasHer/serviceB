@@ -17,7 +17,7 @@
   "hostRules": [
     {
       "hostType": "npm",
-      "matchHost": "https://npm.pkg.github.com/",
+      "matchHost": "npm.pkg.github.com",
       "token": "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"
     }
   ],
