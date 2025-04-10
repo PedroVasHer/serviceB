@@ -7,6 +7,7 @@
       "matchPackageNames": [
         "@pedrovasher/servicec"
       ],
+      "registryUrls": ["https://npm.pkg.github.com/"]
       "matchUpdateTypes": [
         "minor",
         "patch"
