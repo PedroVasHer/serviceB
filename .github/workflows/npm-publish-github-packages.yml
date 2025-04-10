@@ -36,6 +36,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: echo "@PedroVasHer:registry=https://npm.pkg.github.com/" >> ~/.npmrc
       - run: echo "//https://npm.pkg.github.com/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
+      - run: npm --no-git-tag-version version 6
       - run: git config --global user.email "diegoerleyduran@yahoo.com"
       - run: git config --global user.name "ganimedesapolo"
       - run : npm version patch
