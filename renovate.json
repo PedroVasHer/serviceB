@@ -8,7 +8,7 @@
         "@pedrovasher/servicec"
       ],
       "registryUrls": [
-        "https://npm.pkg.github.com/"
+        "https://npm.pkg.github.com/download"
       ],
       "automerge": true,
       "branchPrefix": "main"
