@@ -15,6 +15,16 @@
       "branchPrefix": "main"
     }
   ],
+  
+  hostRules": [
+    {
+      "hostType": "npm",
+      "domainName": "https://npm.pkg.github.com/",
+      "username": "PedroVasHer",
+      "password": "Las48leyesdelpoder"
+    }
+  ],
+
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Dependency Dashboard"
 }
