@@ -1,11 +1,16 @@
 {
   "extends": [
-    "config:base"
+    "config:recommended"
   ],
   "packageRules": [
     {
-      "packageNames": ["@pedrovasher/servicec"],
-      "updateTypes": ["minor", "patch"],
+      "matchPackageNames": [
+        "@pedrovasher/servicec"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "automerge": true,
       "branchPrefix": "main"
     }
