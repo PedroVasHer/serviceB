@@ -4,7 +4,7 @@
   ],
   "packageRules": [
     {
-      "packageNames": ["PedroVasHer/servicec"],
+      "packageNames": ["@pedrovasher/servicec"],
       "updateTypes": ["minor", "patch"],
       "automerge": true,
       "branchPrefix": "main"
