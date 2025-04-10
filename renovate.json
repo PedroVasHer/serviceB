@@ -18,7 +18,7 @@
     {
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
-      "token": "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"
+      "token": "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"
     }
   ],
   "npmrc": "@pedrovasher:registry=https://npm.pkg.github.com/",
