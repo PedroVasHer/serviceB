@@ -16,7 +16,7 @@
     }
   ],
   
-  hostRules": [
+  "hostRules": [
     {
       "hostType": "npm",
       "domainName": "https://npm.pkg.github.com/",
