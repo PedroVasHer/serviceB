@@ -14,13 +14,6 @@
       "branchPrefix": "main"
     }
   ],
-  "hostRules": [
-    {
-      "matchHost": "npm.pkg.github.com",
-      "hostType": "npm",
-      "token": "{{secrets.MEND_TOKEN}}"
-    }
-  ],
   "npmrc": "@pedrovasher:registry=https://npm.pkg.github.com/",
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Dependency Dashboard"
