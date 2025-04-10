@@ -7,20 +7,20 @@
       "matchPackageNames": [
         "@pedrovasher/servicec"
       ],
-      "registryUrls": ["https://npm.pkg.github.com/"],
+      "registryUrls": [
+        "https://npm.pkg.github.com/"
+      ],
       "automerge": true,
       "branchPrefix": "main"
     }
   ],
-  
   "hostRules": [
     {
       "hostType": "npm",
-      "domainName": "https://npm.pkg.github.com/",
+      "matchHost": "https://npm.pkg.github.com/",
       "token": "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"
     }
   ],
-
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Dependency Dashboard"
 }
