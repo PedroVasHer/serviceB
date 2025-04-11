@@ -12,7 +12,7 @@
         "patch"
       ],
       "automerge": false,
-      "branchPrefix": "feature/",
+      "branchPrefix": "main",
       "prCreation": "immediate"
     }
   ],
