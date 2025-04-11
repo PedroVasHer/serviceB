@@ -12,3 +12,5 @@ app.get('/serviceC', (req, res) => {
 });
 
 export default app;
+
+
